@@ -6,3 +6,4 @@ __pycache__/
 Source/.ipynb_checkpoints/
 Source/refactor_nb.py
 Source/fix_nb.py
+.env

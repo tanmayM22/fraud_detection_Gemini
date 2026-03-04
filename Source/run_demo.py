@@ -7,8 +7,13 @@ import shap
 import os
 import warnings
 
+from dotenv import load_dotenv
+
 # Suppress version-specific warnings for cleaner demo output
 warnings.filterwarnings('ignore')
+
+# Load environment variables from .env file
+load_dotenv()
 
 DATA_PATH = '/Users/bhavika/Documents/fraud detection/Dataset/creditcard.csv'
 
