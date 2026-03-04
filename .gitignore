@@ -1,0 +1,8 @@
+Dataset/
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+Source/.ipynb_checkpoints/
+Source/refactor_nb.py
+Source/fix_nb.py
